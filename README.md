@@ -1,5 +1,4 @@
 # Social-listening-Dashboard
-Technical Design Document: Interventional Pain Social Listening Engine
 # Technical Design Document: Interventional Pain Social Listening Engine
 
 # 1. System Overview
